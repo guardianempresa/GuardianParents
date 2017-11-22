@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_call"
+            android:icon="@drawable/menucall"
+            android:title="@string/callmenu" />
+
+
+        <item
+            android:id="@+id/nav_changeroute"
+            android:icon="@drawable/menuchange"
+            android:title="@string/Changeroute" />
+
+
+        <item
+            android:id="@+id/nav_addroute"
+            android:icon="@drawable/menuplus"
+            android:title="@string/Addroute" />
+
+
+        <item
+            android:id="@+id/nav_remove"
+            android:icon="@drawable/menuminus"
+            android:title="@string/removeroute" />
+    </group>
+
+
+</menu>

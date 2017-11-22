@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.controlderuta.guardianpadres">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
+    <protected-broadcast android:name="android.intent.action.MEDIA_MOUNTED" />
+
+    <uses-feature
+        android:name="android.hardware.camera2"
+        android:required="false" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logoguardiangreen"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/logoguardiangreen"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <!-- Para foto -->
+
+        <provider
+            android:name="android.support.v4.content.FileProvider"
+            android:authorities="com.controlderuta.guardianpadres"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_path" />
+        </provider>
+
+        <activity android:name="com.controlderuta.guardianpadres.SplasScreenActivity"
+            android:screenOrientation="portrait"
+            >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.controlderuta.guardianpadres.LoginActivity"
+            android:screenOrientation="portrait"
+            />
+        <activity android:name="com.controlderuta.guardianpadres.TransitionActivity"
+            android:screenOrientation="portrait"
+            />
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyD-BTV8T07NjwXs5Zb5nSTzsJ5YBuLc_AQ" />
+
+        <activity android:name="com.controlderuta.guardianpadres.PhoneActivity"
+            android:screenOrientation="portrait"
+            />
+        <activity android:name="com.controlderuta.guardianpadres.AutenticationCodeActivity"
+            android:screenOrientation="portrait"
+            />
+        <activity android:name="com.controlderuta.guardianpadres.UserNameActivity"
+            android:screenOrientation="portrait"
+            />
+        <activity android:name="com.controlderuta.guardianpadres.UserChildrenActivity"
+            android:screenOrientation="portrait"
+            />
+        <activity android:name="com.controlderuta.guardianpadres.TypeRouteActivity"
+            android:screenOrientation="portrait"
+            />
+        <activity android:name="com.controlderuta.guardianpadres.UserAvatarActivity"
+            android:screenOrientation="portrait"
+            />
+        <activity android:name="com.controlderuta.guardianpadres.PointEndActivity"
+            android:screenOrientation="portrait"
+            />
+        <activity android:name="com.controlderuta.guardianpadres.UserTutorActivity"
+            android:screenOrientation="portrait"
+            />
+        <activity
+            android:name="com.controlderuta.guardianpadres.NewMapActivity"
+            android:label="@string/title_activity_new_map"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme" />
+
+        <activity android:name="com.controlderuta.guardianpadres.NewRouteActivity"
+            android:screenOrientation="portrait"
+            />
+        <activity android:name="com.controlderuta.guardianpadres.ListRouteActivity"
+            android:screenOrientation="portrait"
+            />
+        <activity android:name="com.controlderuta.guardianpadres.NewListRouteActivity"
+            android:screenOrientation="portrait"
+            />
+        <activity android:name="com.controlderuta.guardianpadres.NewTypeRouteActivity"
+            android:screenOrientation="portrait"
+            />
+        <activity android:name="com.controlderuta.guardianpadres.BoardActivity"
+            android:screenOrientation="portrait"
+            />
+        <activity android:name="com.controlderuta.guardianpadres.ConfigAlertActivity"
+            android:screenOrientation="portrait"
+            >
+
+        </activity>
+    </application>
+
+</manifest>

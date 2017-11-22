@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.controlderuta.guardianpadres.NewMapActivity">
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay"
+        >
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            android:title="@string/action_newmap"
+            app:popupTheme="@style/AppTheme.PopupOverlay"
+            >
+
+            <Button
+                android:id="@+id/btnphone"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:background="@drawable/phone"
+                android:layout_gravity="right"
+                android:layout_marginRight="12dp"
+                />
+
+        </android.support.v7.widget.Toolbar>
+
+
+    </android.support.design.widget.AppBarLayout>
+
+
+    <include layout="@layout/content_new_map" />
+
+    <TextView
+        android:id="@+id/distanceText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="80dp"
+        android:layout_marginLeft="@dimen/margin30dp"
+        android:layout_marginBottom="@dimen/margin16dp"
+        />
+
+
+    <SeekBar
+        android:id="@+id/seekBarNewMap"
+        android:layout_width="230dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|left"
+        android:layout_marginBottom="@dimen/margin30dp"
+        android:layout_marginRight="@dimen/margin30dp"
+        android:layout_marginLeft="@dimen/margin5dp"
+        android:max="24"
+        android:progress="18" />
+
+    <TextView
+        android:id="@+id/textseekBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|center"
+        android:layout_marginBottom="@dimen/margin16dp"
+        />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fabVoy"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:layout_margin="16dp"
+        app:backgroundTint="@color/colorPrimaryDark"
+        app:srcCompat="@drawable/up" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fabNoVoy"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:layout_margin="16dp"
+        app:srcCompat="@drawable/down" />
+
+
+</android.support.design.widget.CoordinatorLayout>

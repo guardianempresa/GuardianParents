@@ -1,0 +1,127 @@
+<resources>
+    <string name="app_name">Guardián Padres</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps_rutas">Map</string>
+    <string name="toolbar_tittle_Maps">Guardian</string>
+    <string name="title_activity_referencia">Referencia</string>
+    <string name="title_activity_maps_ruta">MapsActivityRuta</string>
+    <string name="title_bar_maps_rutas">Guardian</string>
+    <string name="vacio"></string>
+    <string name="perfildeusuario">Perfil  de usuario</string>
+    <!--Nuevos-->
+
+
+    <string name="buttomnext">SIGUIENTE</string>
+
+
+    <string name="transitionintro">El tiempo es muy valioso e irrecuperable, porque perderlo esperando una ruta. Nosotros ayudamos a reducir tus tiempos de espera, además de velar por la seguridad y tranquilidad de los usuarios de ruta.</string>
+    <string name="textcodeStar">Ingrese el código suministrado por la ruta.</string>
+    <string name="toolbartitlecodestar">Código de ruta</string>
+    <string name="validadorcodestar">Debe ingresar el código que le suministro la ruta.</string>
+    <string name="validadorcodestarexist">Este código de ruta no existe, verifique el código o confírmelo con su ruta.</string>
+
+    <string name="toolbartitlephone">Registro telefónico</string>
+    <string name="validadorphone">Este número de celular tiene errores, verifíquelo para poder continuar.</string>
+    <string name="validadorphonezero">Debe incluir su número de celular.</string>
+    <string name="textviewphone">Número de celular</string>
+
+    <string name="toolbartitlepersonal">Registro personal</string>
+    <string name="textnamedriver">Nombres</string>
+    <string name="textlastnamedriver">Apellidos</string>
+    <string name="validadorpersonalnamevacio">Debe registrar sus nombres.</string>
+    <string name="validadorpersonallastnamevacio">Debe registrar sus apellidos.</string>
+    <string name="validadorpersonal">Debe registrar la totalidad de los espacios.</string>
+    <string name="validadorchildlastnamevacio">Debe registrar los apellidos del niño o niña.</string>
+    <string name="validadorchildnamevacio">Debe registrar los nombres del niño o niña.</string>
+
+    <string name="textTypeRoute">Seleccione el tipo de ruta a la que se va unir.</string>
+    <string name="buttomScolar">Escolar</string>
+    <string name="buttomEnterprise">Empresarial</string>
+    <string name="toolbartitleTypeRoute">Tipo de ruta</string>
+    <string name="toolbartitlechild">Registro niño</string>
+    <string name="textAvatar">Seleccione la imagen con la que quiere ser identificado.</string>
+    <string name="title_activity_user_icon">UserIconActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="toolbartitleAvatarUser">Selección icono</string>
+    <string name="toolbartitletutor">Registro padre o tutor</string>
+    <string name="toolbartitlepoint">Punto de recogida</string>
+
+
+    <string name="alertGps">El sistema GPS es necesario para usar Guardián y esta desactivado,¿Desea activarlo?</string>
+    <string name="yesGps">Si</string>
+    <string name="noGps">No</string>
+
+    <string name="helpPoint">Si tiene la función GPS activa, se detectará su posición actual, esto puede tardar unos segundos. Si no aparece busque una ubicación cercana a una ventana, calle, puerta, etc.</string>
+    <string name="helpConfirm">Ok</string>
+
+    <string name="helpPointTwo">Es necesario para la ruta que ubique el lugar de recogida, navegue en el mapa y haga clic con su dedo sobre el mapa en la ubicación exacta de recogida.</string>
+    <string name="helpPointThree">Pulse siguiente para continuar.</string>
+
+    <string name="title_activity_new_map">Mapa de ruta</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_prueba_maps">Map</string>
+
+
+    <string name="alertone">¡Estamos en un trancón grave!</string>
+    <string name="alerttwo">¡Sufrimos un accidente!</string>
+    <string name="alertthree">¡Tenemos un daño mecánico!</string>
+    <string name="alertfoue">El recorrido inicio a las </string>
+    <string name="alertfive">El recorrido finalizo a las </string>
+
+    <string name="close_sesion">Cerrar sesión</string>
+    <string name="Editperfil">Perfil</string>
+    <string name="Configuración">Configuración</string>
+    <string name="Addroute">Agregar ruta</string>
+    <string name="Changeroute">Cambiar de ruta</string>
+    <string name="removeroute">Modificar info ruta</string>
+    <string name="recomendar">Recomendar</string>
+    <string name="guardian">Guardián</string>
+    <string name="subtitle">Control de ruta</string>
+    <string name="call">LLamada</string>
+    <string name="callmenu">Llamada</string>
+    <string name="perfil">Perfil</string>
+
+    <string name="calldialog">¿Hacer llamada?</string>
+    <string name="toolbartitleroutelist">Selector de ruta</string>
+    <string name="textroutelist">Seleccione la ruta</string>
+
+
+    <string name="textNoGo">Hoy no tomare la ruta</string>
+    <string name="textGo">He cambiado de opinión tomare la ruta</string>
+    <string name="action_newmap">Mapa de ruta</string>
+
+    <string name="distance">Distancia aprox</string>
+    <string name="metros">metros</string>
+    <string name="textalertnear">Alerta más cercana.</string>
+    <string name="textalertmedium">Alerta distancia media.</string>
+    <string name="textalertlong">Alerta más lejana.</string>
+    <string name="min">Min</string>
+    <string name="max">Max</string>
+    <string name="minuno">NO</string>
+    <string name="maxuno">200 mts</string>
+    <string name="maxdos">2000 mts</string>
+    <string name="mindos">201 mts</string>
+    <string name="mintres">2001 mts</string>
+    <string name="maxtres">5000 mts</string>
+    <string name="desactive">Alarma desactivada</string>
+    <string name="toolbartitleConfig">Configuración alertas</string>
+    <string name="confirpoint">Es necesario que ubique el punto de recogida para continuar, es posible que su GPS no esté reconociendo su posición, ubíquese en un lugar cerca de una ventana, puerta o calle hasta que aparezca el icono que selecciono.</string>
+    <string name="textCodeRoute">Código de ruta</string>
+
+
+    <string name="internetwifi">Está usando su conexión WiFi en este momento.</string>
+    <string name="internet3g4g">Está usando datos móviles en este momento.</string>
+    <string name="internetfailen">No está conectado a internet, es necesario que lo haga para un buen funcionamiento de Guardián.</string>
+    <string name="internetposition">No está conectado a internet, es necesario que lo haga para que sus usuarios puedan ver su posición.</string>
+    <string name="estadoruta">La ruta no ha iniciado el recorrido, por tanto, no podrá ver su posición.</string>
+    <string name="condiciones">Al registrarme, declaro que soy mayor de edad y acepto las</string>
+    <string name="politicas">Políticas de privacidad y los Terminos y Condiciones de uso.</string>
+
+
+</resources>
+
+
+

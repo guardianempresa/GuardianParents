@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.controlderuta.guardianpadres.UserIconActivity">
+    <item
+        android:id="@+id/perfil"
+        android:orderInCategory="100"
+        android:title="@string/perfil"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/config"
+        android:orderInCategory="100"
+        android:title="@string/Configuración"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/outsesion"
+        android:orderInCategory="100"
+        android:title="@string/close_sesion"
+        app:showAsAction="never" />
+</menu>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\eduin\\AndroidStudioProjects\\GuardianParents\\app\\build\\intermediates\\res\\merged\\debug\\menu\\new_map.xml",
+        "source": "C:\\Users\\eduin\\AndroidStudioProjects\\GuardianParents\\app\\src\\main\\res\\menu\\new_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\eduin\\AndroidStudioProjects\\GuardianParents\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_new_map_drawer.xml",
+        "source": "C:\\Users\\eduin\\AndroidStudioProjects\\GuardianParents\\app\\src\\main\\res\\menu\\activity_new_map_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\eduin\\AndroidStudioProjects\\GuardianParents\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_user_icon.xml",
+        "source": "C:\\Users\\eduin\\AndroidStudioProjects\\GuardianParents\\app\\src\\main\\res\\menu\\menu_user_icon.xml"
+    }
+]

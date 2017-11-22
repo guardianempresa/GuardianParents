@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary"> #8BC34A</color>
+    <color name="colorPrimaryDark">#6EBC13</color>
+    <color name="colorPrimarylight">#DCEDC8</color>
+    <color name="colorPrimarytext">#212121</color>
+    <color name="colorSecondarytext">#757575</color>
+    <color name="colordividerborder">#BDBDBD</color>
+    <color name="colorAccent">#333333</color>
+    <color name="colorAccentGris">#607D8B</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBottonFloat">#beb913</color>
+    <color name="colorEditText">#F1F1F1</color>
+    <color name="colorEmergency">#FF0000</color>
+
+
+</resources>

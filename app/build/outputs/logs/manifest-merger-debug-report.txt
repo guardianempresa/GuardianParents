@@ -1,0 +1,500 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:2:1-112:12
+	package
+		ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.1] C:\Users\eduin\.android\build-cache\24baac04eee3cf2559cbe5d1aaf72160e646ba30\output\AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\eduin\.android\build-cache\0cce8c0ea126984b8c8ba91e386f8148ccf275fe\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.1] C:\Users\eduin\.android\build-cache\9c75c7129d53f0a3aee8586f3553498016902256\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\eduin\.android\build-cache\c122a4b1c2e58b7bb0ffc1f52feb3562b2df4791\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:11.0.1] C:\Users\eduin\.android\build-cache\aa1849058435e0075dbe21dcee05b860f95b438e\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:6:5-79
+MERGED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\eduin\.android\build-cache\0cce8c0ea126984b8c8ba91e386f8148ccf275fe\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.1] C:\Users\eduin\.android\build-cache\9c75c7129d53f0a3aee8586f3553498016902256\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\eduin\.android\build-cache\c122a4b1c2e58b7bb0ffc1f52feb3562b2df4791\output\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-maps:11.0.1] C:\Users\eduin\.android\build-cache\aa1849058435e0075dbe21dcee05b860f95b438e\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:10:5-65
+	android:name
+		ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:10:22-62
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:11:22-77
+uses-permission#android.permission.CALL_PHONE
+ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:12:5-69
+	android:name
+		ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:12:22-66
+protected-broadcast
+ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:14:26-76
+uses-feature#android.hardware.camera2
+ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:16:5-18:36
+	android:required
+		ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:18:9-33
+	android:name
+		ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:17:9-48
+application
+ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:20:5-110:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\eduin\.android\build-cache\7d71033b683fe1a841084034d6833e92d130aab3\output\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-core:11.0.1] C:\Users\eduin\.android\build-cache\08caba8b41cded2c8bfdbb95ba6afdedede0061d\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-messaging:11.0.1] C:\Users\eduin\.android\build-cache\0544d75f3dedc4c10b66034d8c7511e283f63b4b\output\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-auth:11.0.1] C:\Users\eduin\.android\build-cache\98aad2347c94f2a1a5bb3488f08c6082532d3fe7\output\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-invites:11.0.1] C:\Users\eduin\.android\build-cache\3acae637425c7df3e9bdfc51a0df4195b0a9ff61\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.1] C:\Users\eduin\.android\build-cache\24baac04eee3cf2559cbe5d1aaf72160e646ba30\output\AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.firebase:firebase-dynamic-links:11.0.1] C:\Users\eduin\.android\build-cache\e37ec0775ac2ba1adf2941beec8fa980e8eefd1c\output\AndroidManifest.xml:5:3-17
+MERGED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\eduin\.android\build-cache\0cce8c0ea126984b8c8ba91e386f8148ccf275fe\output\AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.1] C:\Users\eduin\.android\build-cache\9c75c7129d53f0a3aee8586f3553498016902256\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\eduin\.android\build-cache\c122a4b1c2e58b7bb0ffc1f52feb3562b2df4791\output\AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:11.0.1] C:\Users\eduin\.android\build-cache\cd52a4dc80734ffbdeec55d7f4bbf25efb0d81b2\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-auth:11.0.1] C:\Users\eduin\.android\build-cache\df9c699677f1260eff8cbf47b263248b1f3b0ba9\output\AndroidManifest.xml:19:5-25:19
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\eduin\.android\build-cache\8e71c6104b472f1c32ff2b11e0cbde62d7f73ca9\output\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:11.0.1] C:\Users\eduin\.android\build-cache\aa1849058435e0075dbe21dcee05b860f95b438e\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.1] C:\Users\eduin\.android\build-cache\b49ef821f6885f1f1a388b486223832bcf6c8a49\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.1] C:\Users\eduin\.android\build-cache\566a39392cb93a5226342801013f4a4b6b1af562\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.1] C:\Users\eduin\.android\build-cache\0fad0bb78e111a3a0fa951088cc49e42aa5a3d3d\output\AndroidManifest.xml:19:5-21:19
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\eduin\.android\build-cache\36e84e31b3e0d82d252d651ae1ccd65b5e9f9c36\output\AndroidManifest.xml:9:5-20
+MERGED from [com.zoonref:simple-view-behavior:1.0] C:\Users\eduin\.android\build-cache\de3491dbd0e5b4687ad0f77d0bf93f311bd0d258\output\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\eduin\.android\build-cache\5651df98121b1a62f8c70073ed09b71cf9e87c4e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\eduin\.android\build-cache\fd1de86f9a7de0c230bea2a769ec57f844eed269\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\eduin\.android\build-cache\4840f242ae986966063280bcb32a2f7a20b735f3\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\eduin\.android\build-cache\94e50c280bf188f7f0e06d3aed2c110e998b8b3b\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\eduin\.android\build-cache\7fcb06ac6110db3cad54a2adf884b07bf09cf737\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\eduin\.android\build-cache\d705ba112285ac6fb780a572b7de1ba0235606ee\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\eduin\.android\build-cache\a1695d652003b682b017dc6f87abe093eecc2f43\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\eduin\.android\build-cache\a3334ebec2c7c30b4ee4a0bd40c1e4b2916fffcd\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\eduin\.android\build-cache\ec6922364276fba8ac4d093d8aa899c6c82ae8c4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\eduin\.android\build-cache\5c3c8eb44c637a35ad9ae35039659f4de377eb1a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\eduin\.android\build-cache\7f3b24d4fde9c2e201cd15a252e4c67c05e5d638\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:23:9-41
+	android:supportsRtl
+		ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:25:9-35
+	android:roundIcon
+		ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:24:9-56
+	android:allowBackup
+		ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:21:9-35
+	android:icon
+		ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:22:9-51
+	android:theme
+		ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:26:9-40
+provider#android.support.v4.content.FileProvider
+ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:30:9-38:20
+	android:authorities
+		ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:32:13-67
+	android:grantUriPermissions
+		ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:34:13-47
+	android:exported
+		ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:31:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:35:13-37:53
+	android:resource
+		ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:37:17-50
+	android:name
+		ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:36:17-67
+activity#com.controlderuta.guardianpadres.SplasScreenActivity
+ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:40:9-48:20
+	android:screenOrientation
+		ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:41:13-49
+	android:name
+		ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:40:19-86
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:43:13-47:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:44:17-69
+	android:name
+		ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:44:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:46:17-77
+	android:name
+		ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:46:27-74
+activity#com.controlderuta.guardianpadres.LoginActivity
+ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:49:9-51:15
+	android:screenOrientation
+		ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:50:13-49
+	android:name
+		ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:49:19-80
+activity#com.controlderuta.guardianpadres.TransitionActivity
+ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:52:9-54:15
+	android:screenOrientation
+		ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:53:13-49
+	android:name
+		ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:52:19-85
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:56:9-58:71
+	android:value
+		ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:58:13-68
+	android:name
+		ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:57:13-58
+activity#com.controlderuta.guardianpadres.PhoneActivity
+ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:60:9-62:15
+	android:screenOrientation
+		ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:61:13-49
+	android:name
+		ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:60:19-80
+activity#com.controlderuta.guardianpadres.AutenticationCodeActivity
+ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:63:9-65:15
+	android:screenOrientation
+		ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:64:13-49
+	android:name
+		ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:63:19-92
+activity#com.controlderuta.guardianpadres.UserNameActivity
+ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:66:9-68:15
+	android:screenOrientation
+		ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:67:13-49
+	android:name
+		ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:66:19-83
+activity#com.controlderuta.guardianpadres.UserChildrenActivity
+ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:69:9-71:15
+	android:screenOrientation
+		ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:70:13-49
+	android:name
+		ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:69:19-87
+activity#com.controlderuta.guardianpadres.TypeRouteActivity
+ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:72:9-74:15
+	android:screenOrientation
+		ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:73:13-49
+	android:name
+		ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:72:19-84
+activity#com.controlderuta.guardianpadres.UserAvatarActivity
+ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:75:9-77:15
+	android:screenOrientation
+		ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:76:13-49
+	android:name
+		ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:75:19-85
+activity#com.controlderuta.guardianpadres.PointEndActivity
+ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:78:9-80:15
+	android:screenOrientation
+		ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:79:13-49
+	android:name
+		ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:78:19-83
+activity#com.controlderuta.guardianpadres.UserTutorActivity
+ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:81:9-83:15
+	android:screenOrientation
+		ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:82:13-49
+	android:name
+		ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:81:19-84
+activity#com.controlderuta.guardianpadres.NewMapActivity
+ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:84:9-88:47
+	android:screenOrientation
+		ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:87:13-49
+	android:label
+		ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:86:13-59
+	android:theme
+		ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:88:13-44
+	android:name
+		ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:85:13-75
+activity#com.controlderuta.guardianpadres.NewRouteActivity
+ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:90:9-92:15
+	android:screenOrientation
+		ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:91:13-49
+	android:name
+		ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:90:19-83
+activity#com.controlderuta.guardianpadres.ListRouteActivity
+ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:93:9-95:15
+	android:screenOrientation
+		ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:94:13-49
+	android:name
+		ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:93:19-84
+activity#com.controlderuta.guardianpadres.NewListRouteActivity
+ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:96:9-98:15
+	android:screenOrientation
+		ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:97:13-49
+	android:name
+		ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:96:19-87
+activity#com.controlderuta.guardianpadres.NewTypeRouteActivity
+ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:99:9-101:15
+	android:screenOrientation
+		ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:100:13-49
+	android:name
+		ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:99:19-87
+activity#com.controlderuta.guardianpadres.BoardActivity
+ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:102:9-104:15
+	android:screenOrientation
+		ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:103:13-49
+	android:name
+		ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:102:19-80
+activity#com.controlderuta.guardianpadres.ConfigAlertActivity
+ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:105:9-109:20
+	android:screenOrientation
+		ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:106:13-49
+	android:name
+		ADDED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml:105:19-86
+uses-sdk
+INJECTED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\eduin\.android\build-cache\dc56cb5d9889b9e42e97c6563776399847f17963\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\eduin\.android\build-cache\7d71033b683fe1a841084034d6833e92d130aab3\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-core:11.0.1] C:\Users\eduin\.android\build-cache\08caba8b41cded2c8bfdbb95ba6afdedede0061d\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-messaging:11.0.1] C:\Users\eduin\.android\build-cache\0544d75f3dedc4c10b66034d8c7511e283f63b4b\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-auth:11.0.1] C:\Users\eduin\.android\build-cache\98aad2347c94f2a1a5bb3488f08c6082532d3fe7\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database:11.0.1] C:\Users\eduin\.android\build-cache\65154dc358b5cb2ebaee2810ea8f2a204237fb3d\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.0.1] C:\Users\eduin\.android\build-cache\9664899da047884866896517e2ac5e7265cd4cc1\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-invites:11.0.1] C:\Users\eduin\.android\build-cache\3acae637425c7df3e9bdfc51a0df4195b0a9ff61\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.1] C:\Users\eduin\.android\build-cache\24baac04eee3cf2559cbe5d1aaf72160e646ba30\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-dynamic-links:11.0.1] C:\Users\eduin\.android\build-cache\e37ec0775ac2ba1adf2941beec8fa980e8eefd1c\output\AndroidManifest.xml:3:3-41
+MERGED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\eduin\.android\build-cache\0cce8c0ea126984b8c8ba91e386f8148ccf275fe\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.1] C:\Users\eduin\.android\build-cache\9c75c7129d53f0a3aee8586f3553498016902256\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\eduin\.android\build-cache\c122a4b1c2e58b7bb0ffc1f52feb3562b2df4791\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.1] C:\Users\eduin\.android\build-cache\cd52a4dc80734ffbdeec55d7f4bbf25efb0d81b2\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-auth:11.0.1] C:\Users\eduin\.android\build-cache\df9c699677f1260eff8cbf47b263248b1f3b0ba9\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:11.0.1] C:\Users\eduin\.android\build-cache\068543e8558ca053556c24eba7884ae4a491b3dd\output\AndroidManifest.xml:4:5-43
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\eduin\.android\build-cache\8e71c6104b472f1c32ff2b11e0cbde62d7f73ca9\output\AndroidManifest.xml:7:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.0.1] C:\Users\eduin\.android\build-cache\aa1849058435e0075dbe21dcee05b860f95b438e\output\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.1] C:\Users\eduin\.android\build-cache\b49ef821f6885f1f1a388b486223832bcf6c8a49\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.1] C:\Users\eduin\.android\build-cache\566a39392cb93a5226342801013f4a4b6b1af562\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.1] C:\Users\eduin\.android\build-cache\0fad0bb78e111a3a0fa951088cc49e42aa5a3d3d\output\AndroidManifest.xml:17:5-43
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\eduin\.android\build-cache\36e84e31b3e0d82d252d651ae1ccd65b5e9f9c36\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.zoonref:simple-view-behavior:1.0] C:\Users\eduin\.android\build-cache\de3491dbd0e5b4687ad0f77d0bf93f311bd0d258\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\eduin\.android\build-cache\5651df98121b1a62f8c70073ed09b71cf9e87c4e\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\eduin\.android\build-cache\e0010bb07ea3d931b72d9290023f5e512040ac38\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\eduin\.android\build-cache\fd1de86f9a7de0c230bea2a769ec57f844eed269\output\AndroidManifest.xml:20:5-44
+MERGED from [com.github.GrenderG:Toasty:1.2.5] C:\Users\eduin\.android\build-cache\8e814e7de3c2f5c3894e5612641cb837dc32e613\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\eduin\.android\build-cache\4840f242ae986966063280bcb32a2f7a20b735f3\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\eduin\.android\build-cache\94e50c280bf188f7f0e06d3aed2c110e998b8b3b\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\eduin\.android\build-cache\7fcb06ac6110db3cad54a2adf884b07bf09cf737\output\AndroidManifest.xml:20:5-43
+MERGED from [com.github.hani-momanii:SuperNova-Emoji:1.0] C:\Users\eduin\.android\build-cache\5debe0774b4a28cd42b0fd52ae3c449101c1be21\output\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\eduin\.android\build-cache\d705ba112285ac6fb780a572b7de1ba0235606ee\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\eduin\.android\build-cache\a1695d652003b682b017dc6f87abe093eecc2f43\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\eduin\.android\build-cache\a3334ebec2c7c30b4ee4a0bd40c1e4b2916fffcd\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\eduin\.android\build-cache\ec6922364276fba8ac4d093d8aa899c6c82ae8c4\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\eduin\.android\build-cache\5c3c8eb44c637a35ad9ae35039659f4de377eb1a\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\eduin\.android\build-cache\7f3b24d4fde9c2e201cd15a252e4c67c05e5d638\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\eduin\.android\build-cache\5651df98121b1a62f8c70073ed09b71cf9e87c4e\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\eduin\AndroidStudioProjects\GuardianParents\app\src\main\AndroidManifest.xml
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:11.0.1] C:\Users\eduin\.android\build-cache\0544d75f3dedc4c10b66034d8c7511e283f63b4b\output\AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:11.0.1] C:\Users\eduin\.android\build-cache\0544d75f3dedc4c10b66034d8c7511e283f63b4b\output\AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.0.1] C:\Users\eduin\.android\build-cache\0544d75f3dedc4c10b66034d8c7511e283f63b4b\output\AndroidManifest.xml:23:18-87
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.0.1] C:\Users\eduin\.android\build-cache\0544d75f3dedc4c10b66034d8c7511e283f63b4b\output\AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:11.0.1] C:\Users\eduin\.android\build-cache\0544d75f3dedc4c10b66034d8c7511e283f63b4b\output\AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.0.1] C:\Users\eduin\.android\build-cache\0544d75f3dedc4c10b66034d8c7511e283f63b4b\output\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.0.1] C:\Users\eduin\.android\build-cache\0544d75f3dedc4c10b66034d8c7511e283f63b4b\output\AndroidManifest.xml:25:25-75
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.1] C:\Users\eduin\.android\build-cache\24baac04eee3cf2559cbe5d1aaf72160e646ba30\output\AndroidManifest.xml:20:9-25:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.1] C:\Users\eduin\.android\build-cache\24baac04eee3cf2559cbe5d1aaf72160e646ba30\output\AndroidManifest.xml:20:51-74
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.1] C:\Users\eduin\.android\build-cache\24baac04eee3cf2559cbe5d1aaf72160e646ba30\output\AndroidManifest.xml:20:75-121
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.1] C:\Users\eduin\.android\build-cache\24baac04eee3cf2559cbe5d1aaf72160e646ba30\output\AndroidManifest.xml:20:19-50
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.1] C:\Users\eduin\.android\build-cache\24baac04eee3cf2559cbe5d1aaf72160e646ba30\output\AndroidManifest.xml:21:13-24:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.1] C:\Users\eduin\.android\build-cache\24baac04eee3cf2559cbe5d1aaf72160e646ba30\output\AndroidManifest.xml:22:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.1] C:\Users\eduin\.android\build-cache\24baac04eee3cf2559cbe5d1aaf72160e646ba30\output\AndroidManifest.xml:22:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.1] C:\Users\eduin\.android\build-cache\24baac04eee3cf2559cbe5d1aaf72160e646ba30\output\AndroidManifest.xml:23:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.1] C:\Users\eduin\.android\build-cache\24baac04eee3cf2559cbe5d1aaf72160e646ba30\output\AndroidManifest.xml:23:27-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\eduin\.android\build-cache\0cce8c0ea126984b8c8ba91e386f8148ccf275fe\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.1] C:\Users\eduin\.android\build-cache\9c75c7129d53f0a3aee8586f3553498016902256\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\eduin\.android\build-cache\c122a4b1c2e58b7bb0ffc1f52feb3562b2df4791\output\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\eduin\.android\build-cache\0cce8c0ea126984b8c8ba91e386f8148ccf275fe\output\AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\eduin\.android\build-cache\0cce8c0ea126984b8c8ba91e386f8148ccf275fe\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.1] C:\Users\eduin\.android\build-cache\9c75c7129d53f0a3aee8586f3553498016902256\output\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\eduin\.android\build-cache\0cce8c0ea126984b8c8ba91e386f8148ccf275fe\output\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\eduin\.android\build-cache\0cce8c0ea126984b8c8ba91e386f8148ccf275fe\output\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\eduin\.android\build-cache\0cce8c0ea126984b8c8ba91e386f8148ccf275fe\output\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\eduin\.android\build-cache\0cce8c0ea126984b8c8ba91e386f8148ccf275fe\output\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\eduin\.android\build-cache\0cce8c0ea126984b8c8ba91e386f8148ccf275fe\output\AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\eduin\.android\build-cache\0cce8c0ea126984b8c8ba91e386f8148ccf275fe\output\AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\eduin\.android\build-cache\0cce8c0ea126984b8c8ba91e386f8148ccf275fe\output\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\eduin\.android\build-cache\0cce8c0ea126984b8c8ba91e386f8148ccf275fe\output\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\eduin\.android\build-cache\0cce8c0ea126984b8c8ba91e386f8148ccf275fe\output\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\eduin\.android\build-cache\0cce8c0ea126984b8c8ba91e386f8148ccf275fe\output\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\eduin\.android\build-cache\0cce8c0ea126984b8c8ba91e386f8148ccf275fe\output\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\eduin\.android\build-cache\0cce8c0ea126984b8c8ba91e386f8148ccf275fe\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.1] C:\Users\eduin\.android\build-cache\9c75c7129d53f0a3aee8586f3553498016902256\output\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\eduin\.android\build-cache\0cce8c0ea126984b8c8ba91e386f8148ccf275fe\output\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\eduin\.android\build-cache\0cce8c0ea126984b8c8ba91e386f8148ccf275fe\output\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\eduin\.android\build-cache\0cce8c0ea126984b8c8ba91e386f8148ccf275fe\output\AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\eduin\.android\build-cache\0cce8c0ea126984b8c8ba91e386f8148ccf275fe\output\AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\eduin\.android\build-cache\0cce8c0ea126984b8c8ba91e386f8148ccf275fe\output\AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\eduin\.android\build-cache\0cce8c0ea126984b8c8ba91e386f8148ccf275fe\output\AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\eduin\.android\build-cache\0cce8c0ea126984b8c8ba91e386f8148ccf275fe\output\AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.1] C:\Users\eduin\.android\build-cache\0cce8c0ea126984b8c8ba91e386f8148ccf275fe\output\AndroidManifest.xml:33:16-90
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\eduin\.android\build-cache\c122a4b1c2e58b7bb0ffc1f52feb3562b2df4791\output\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\eduin\.android\build-cache\c122a4b1c2e58b7bb0ffc1f52feb3562b2df4791\output\AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\eduin\.android\build-cache\c122a4b1c2e58b7bb0ffc1f52feb3562b2df4791\output\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\eduin\.android\build-cache\c122a4b1c2e58b7bb0ffc1f52feb3562b2df4791\output\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\eduin\.android\build-cache\c122a4b1c2e58b7bb0ffc1f52feb3562b2df4791\output\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\eduin\.android\build-cache\c122a4b1c2e58b7bb0ffc1f52feb3562b2df4791\output\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\eduin\.android\build-cache\c122a4b1c2e58b7bb0ffc1f52feb3562b2df4791\output\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\eduin\.android\build-cache\c122a4b1c2e58b7bb0ffc1f52feb3562b2df4791\output\AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\eduin\.android\build-cache\c122a4b1c2e58b7bb0ffc1f52feb3562b2df4791\output\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\eduin\.android\build-cache\c122a4b1c2e58b7bb0ffc1f52feb3562b2df4791\output\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\eduin\.android\build-cache\c122a4b1c2e58b7bb0ffc1f52feb3562b2df4791\output\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\eduin\.android\build-cache\c122a4b1c2e58b7bb0ffc1f52feb3562b2df4791\output\AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\eduin\.android\build-cache\c122a4b1c2e58b7bb0ffc1f52feb3562b2df4791\output\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\eduin\.android\build-cache\c122a4b1c2e58b7bb0ffc1f52feb3562b2df4791\output\AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\eduin\.android\build-cache\c122a4b1c2e58b7bb0ffc1f52feb3562b2df4791\output\AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\eduin\.android\build-cache\c122a4b1c2e58b7bb0ffc1f52feb3562b2df4791\output\AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\eduin\.android\build-cache\c122a4b1c2e58b7bb0ffc1f52feb3562b2df4791\output\AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\eduin\.android\build-cache\c122a4b1c2e58b7bb0ffc1f52feb3562b2df4791\output\AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\eduin\.android\build-cache\c122a4b1c2e58b7bb0ffc1f52feb3562b2df4791\output\AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\eduin\.android\build-cache\c122a4b1c2e58b7bb0ffc1f52feb3562b2df4791\output\AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\eduin\.android\build-cache\c122a4b1c2e58b7bb0ffc1f52feb3562b2df4791\output\AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\eduin\.android\build-cache\c122a4b1c2e58b7bb0ffc1f52feb3562b2df4791\output\AndroidManifest.xml:43:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\eduin\.android\build-cache\c122a4b1c2e58b7bb0ffc1f52feb3562b2df4791\output\AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\eduin\.android\build-cache\c122a4b1c2e58b7bb0ffc1f52feb3562b2df4791\output\AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\eduin\.android\build-cache\c122a4b1c2e58b7bb0ffc1f52feb3562b2df4791\output\AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.1] C:\Users\eduin\.android\build-cache\c122a4b1c2e58b7bb0ffc1f52feb3562b2df4791\output\AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.0.1] C:\Users\eduin\.android\build-cache\cd52a4dc80734ffbdeec55d7f4bbf25efb0d81b2\output\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.0.1] C:\Users\eduin\.android\build-cache\cd52a4dc80734ffbdeec55d7f4bbf25efb0d81b2\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.0.1] C:\Users\eduin\.android\build-cache\cd52a4dc80734ffbdeec55d7f4bbf25efb0d81b2\output\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.0.1] C:\Users\eduin\.android\build-cache\cd52a4dc80734ffbdeec55d7f4bbf25efb0d81b2\output\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.0.1] C:\Users\eduin\.android\build-cache\cd52a4dc80734ffbdeec55d7f4bbf25efb0d81b2\output\AndroidManifest.xml:6:79-143
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:11.0.1] C:\Users\eduin\.android\build-cache\df9c699677f1260eff8cbf47b263248b1f3b0ba9\output\AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:11.0.1] C:\Users\eduin\.android\build-cache\df9c699677f1260eff8cbf47b263248b1f3b0ba9\output\AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.1] C:\Users\eduin\.android\build-cache\df9c699677f1260eff8cbf47b263248b1f3b0ba9\output\AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:11.0.1] C:\Users\eduin\.android\build-cache\df9c699677f1260eff8cbf47b263248b1f3b0ba9\output\AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.1] C:\Users\eduin\.android\build-cache\df9c699677f1260eff8cbf47b263248b1f3b0ba9\output\AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:11.0.1] C:\Users\eduin\.android\build-cache\df9c699677f1260eff8cbf47b263248b1f3b0ba9\output\AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.1] C:\Users\eduin\.android\build-cache\df9c699677f1260eff8cbf47b263248b1f3b0ba9\output\AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:11.0.1] C:\Users\eduin\.android\build-cache\df9c699677f1260eff8cbf47b263248b1f3b0ba9\output\AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.1] C:\Users\eduin\.android\build-cache\df9c699677f1260eff8cbf47b263248b1f3b0ba9\output\AndroidManifest.xml:24:18-63
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.0.1] C:\Users\eduin\.android\build-cache\aa1849058435e0075dbe21dcee05b860f95b438e\output\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.0.1] C:\Users\eduin\.android\build-cache\aa1849058435e0075dbe21dcee05b860f95b438e\output\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.0.1] C:\Users\eduin\.android\build-cache\aa1849058435e0075dbe21dcee05b860f95b438e\output\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.1] C:\Users\eduin\.android\build-cache\b49ef821f6885f1f1a388b486223832bcf6c8a49\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.1] C:\Users\eduin\.android\build-cache\b49ef821f6885f1f1a388b486223832bcf6c8a49\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.1] C:\Users\eduin\.android\build-cache\b49ef821f6885f1f1a388b486223832bcf6c8a49\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.1] C:\Users\eduin\.android\build-cache\b49ef821f6885f1f1a388b486223832bcf6c8a49\output\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.1] C:\Users\eduin\.android\build-cache\0fad0bb78e111a3a0fa951088cc49e42aa5a3d3d\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.1] C:\Users\eduin\.android\build-cache\0fad0bb78e111a3a0fa951088cc49e42aa5a3d3d\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.1] C:\Users\eduin\.android\build-cache\0fad0bb78e111a3a0fa951088cc49e42aa5a3d3d\output\AndroidManifest.xml:20:20-65
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\eduin\.android\build-cache\5651df98121b1a62f8c70073ed09b71cf9e87c4e\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\eduin\.android\build-cache\e0010bb07ea3d931b72d9290023f5e512040ac38\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\eduin\.android\build-cache\fd1de86f9a7de0c230bea2a769ec57f844eed269\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\eduin\.android\build-cache\4840f242ae986966063280bcb32a2f7a20b735f3\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\eduin\.android\build-cache\94e50c280bf188f7f0e06d3aed2c110e998b8b3b\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\eduin\.android\build-cache\7fcb06ac6110db3cad54a2adf884b07bf09cf737\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\eduin\.android\build-cache\d705ba112285ac6fb780a572b7de1ba0235606ee\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\eduin\.android\build-cache\a1695d652003b682b017dc6f87abe093eecc2f43\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\eduin\.android\build-cache\a3334ebec2c7c30b4ee4a0bd40c1e4b2916fffcd\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\eduin\.android\build-cache\ec6922364276fba8ac4d093d8aa899c6c82ae8c4\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\eduin\.android\build-cache\5c3c8eb44c637a35ad9ae35039659f4de377eb1a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\eduin\.android\build-cache\7f3b24d4fde9c2e201cd15a252e4c67c05e5d638\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\eduin\.android\build-cache\5651df98121b1a62f8c70073ed09b71cf9e87c4e\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\eduin\.android\build-cache\5651df98121b1a62f8c70073ed09b71cf9e87c4e\output\AndroidManifest.xml:26:9-47
